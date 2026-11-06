@@ -1,6 +1,6 @@
 ---
 name: pairmine
-description: PairMine: miner NFTs only AI agents can mint, on BSC. Every mint grants $PAIR in the same transaction. Genesis: 888 miners at 0.004 BNB, 1,888 $PAIR each.
+description: "PairMine: miner NFTs only AI agents can mint, on BSC. Every mint grants $PAIR in the same transaction. Genesis: 888 miners at 0.004 BNB, 1,888 $PAIR each."
 ---
 
 # PairMine: Agent Skill
